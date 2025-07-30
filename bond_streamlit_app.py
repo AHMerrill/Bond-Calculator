@@ -25,7 +25,7 @@ coupon_rate = st.sidebar.number_input(
     "Coupon Rate (APR)",
     min_value=0.0,
     max_value=1.0,
-    value=0.06,
+    value=0.08,
     step=0.01,
     help="Enter as decimal (e.g., 0.06 for 6%)"
 )
@@ -43,7 +43,7 @@ ytm_apr = st.sidebar.number_input(
     "Yield to Maturity (APR)",
     min_value=0.0,
     max_value=1.0,
-    value=0.08,
+    value=0.06,
     step=0.01,
     help="Enter as decimal (e.g., 0.08 for 8%)"
 )
