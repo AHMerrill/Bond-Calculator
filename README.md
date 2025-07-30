@@ -1,6 +1,6 @@
 # Bond Valuation Calculator - Streamlit App
 
-This is a Streamlit web application that converts the Jupyter notebook functionality for bond valuation calculations into an interactive web interface.
+This is a Streamlit web application that converts the Jupyter notebook functionality for bond valuation calculations into an interactive web interface.  The background code was created by Zan Merrill, but the streamlit conversion was done using the app Cursor.
 
 ## Features
 
